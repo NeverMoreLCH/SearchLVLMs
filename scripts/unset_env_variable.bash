@@ -1,0 +1,12 @@
+unset llama3_dir
+unset vlmevalkit_dir
+
+unset OPENAI_API_KEY
+unset OPENAI_ENDPOINT
+
+unset google_api_key
+unset google_text_cse_id
+unset google_image_cse_id
+unset bing_text_api_key
+unset bing_img_api_key
+unset bing_visual_api_key
