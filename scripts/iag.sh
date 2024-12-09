@@ -1,7 +1,7 @@
 #!/bin/bash
 
 device=cuda:0
-dataset_name=test
+dataset_name=UDK-VQA
 
 project_dir="<your path of SearchLVLMs>"
 llava_dir="<your path of LLaVA-1.5 project>"
