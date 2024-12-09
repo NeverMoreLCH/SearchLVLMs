@@ -1,5 +1,5 @@
 # SearchLVLMs
-**SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**  
+**SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge (NeurIPS 2024)**  
 Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang  
 [[Homepage]](https://nevermorelch.github.io/SearchLVLMs.github.io/) [[Paper]](https://arxiv.org/pdf/2405.14554)
 
