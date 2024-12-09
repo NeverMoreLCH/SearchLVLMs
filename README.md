@@ -41,7 +41,7 @@ Download the CLIP model via [huggingface](https://huggingface.co/docs/transforme
 
 ## UDK-VQA Dataset and Checkpoint
 For both UDK-VQA and the checkpoint of our filter, download them from:
-[[Google Drive](https://drive.google.com/drive/folders/1qt_ttxcY43AvC17Xcv8ZnsH0fMNxa9LE?usp=sharing)] or
+[[OneDrive](https://1drv.ms/f/c/da3b3d08ef25cb06/EoDXINrNkOZMoREylIMlBXIBchbhOGpUaSarJAzjFquieg?e=EhNjAj)] or
 [[Baidu NetDisk (password: DSPS)](https://pan.baidu.com/s/1XCJq9mSItZAd21fY0Xz1zQ)]
 
 Unzip the zip files and make sure the file structure looks like this:
